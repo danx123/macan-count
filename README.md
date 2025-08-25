@@ -21,7 +21,9 @@ This app was developed by **Danx Exodus** as part of the *Macan Apps* ecosystem.
 
 ---
 
-
+## Changelog
+* Rewrite Engine
+  
 ℹ️ Note
 The source code shared on GitHub is a base/blueprint.
 The release version is available in binary form with the latest and most stable features.
