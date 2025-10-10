@@ -33,6 +33,7 @@ This app was developed by **Danx Exodus** as part of the *Macan Apps* ecosystem.
 ---
 
 ## Changelog
+- Update Framework 
 - FEATURE: Visual feedback for keyboard keys (Numpad, etc.). Buttons in the UI will blink as if clicked.
 - FEATURE: Currency Converter mode with real-time data via API.
 - FEATURE: Programmer Calculator mode (HEX, DEC, OCT, BIN) with bitwise operations.
