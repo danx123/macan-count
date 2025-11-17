@@ -21,29 +21,13 @@ This app was developed by **Danx Exodus** as part of the *Macan Apps* ecosystem.
 ---
 
 ## 📸 Screenshots
-<img width="738" height="586" alt="Screenshot 2025-10-06 000802" src="https://github.com/user-attachments/assets/b9c9311d-94c6-44bc-83da-3815dd3af881" />
-<img width="765" height="591" alt="Screenshot 2025-10-06 000817" src="https://github.com/user-attachments/assets/19b0bc70-2d47-4c89-b2f8-9304c29012c4" />
-<img width="772" height="621" alt="Screenshot 2025-10-06 000830" src="https://github.com/user-attachments/assets/1dfcde48-130b-4163-9cdc-8b716f54b9e9" />
-<img width="747" height="587" alt="Screenshot 2025-10-06 000840" src="https://github.com/user-attachments/assets/a4426dc1-e8cc-4321-97e3-bbdacde4c3d0" />
-
-
-
-
+<img width="719" height="557" alt="Screenshot 2025-11-18 023057" src="https://github.com/user-attachments/assets/fe0d557a-2007-4fbd-b08b-e77d3ae0d287" />
+<img width="719" height="556" alt="Screenshot 2025-11-18 023152" src="https://github.com/user-attachments/assets/d15223f6-4636-45b5-a1c3-ca8b4098231d" />
 
 ---
 
 ## Changelog
-- Update Framework 
-- FEATURE: Visual feedback for keyboard keys (Numpad, etc.). Buttons in the UI will blink as if clicked.
-- FEATURE: Currency Converter mode with real-time data via API.
-- FEATURE: Programmer Calculator mode (HEX, DEC, OCT, BIN) with bitwise operations.
-- FEATURE: Date Calculator mode for calculating day difference.
-- FEATURE: Memory functions (M+, M-, MR, MC).
-- FEATURE: Constants buttons (π and e).
-- FEATURE: "Always on Top" option to keep the window on top.
-- FEATURE: Toggle Light/Dark Theme.
-- UI: Uses QStackedWidget to switch between modes (Standard, Programmer, Currency, Date).
-- UI: Design adjusted to accommodate new features.
+- Added Qsettings to save theme
   
 ℹ️ Note
 The source code shared on GitHub is a base/blueprint.
