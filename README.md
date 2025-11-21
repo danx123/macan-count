@@ -21,13 +21,13 @@ This app was developed by **Danx Exodus** as part of the *Macan Apps* ecosystem.
 ---
 
 ## 📸 Screenshots
-<img width="719" height="557" alt="Screenshot 2025-11-18 023057" src="https://github.com/user-attachments/assets/fe0d557a-2007-4fbd-b08b-e77d3ae0d287" />
-<img width="719" height="556" alt="Screenshot 2025-11-18 023152" src="https://github.com/user-attachments/assets/d15223f6-4636-45b5-a1c3-ca8b4098231d" />
+<img width="721" height="559" alt="image" src="https://github.com/user-attachments/assets/ac86b91f-a6a6-449c-b5fe-9606bd44ebf5" />
+
 
 ---
 
 ## Changelog
-- Added Qsettings to save theme
+- Update Framework
   
 ℹ️ Note
 The source code shared on GitHub is a base/blueprint.
