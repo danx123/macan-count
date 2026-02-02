@@ -38,4 +38,4 @@ The release version is available in binary form with the latest and most stable 
 Macan Count is released under the MIT license.
 Please feel free to use, modify, and contribute as needed.
 
-✍️ Author: Danx Exodus
+✍️ Author: Danx Exodus - Macan Angkasa
