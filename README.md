@@ -21,7 +21,8 @@ This app was developed by **Danx Exodus** as part of the *Macan Apps* ecosystem.
 ---
 
 ## 📸 Screenshots
-<img width="721" height="559" alt="image" src="https://github.com/user-attachments/assets/ac86b91f-a6a6-449c-b5fe-9606bd44ebf5" />
+<img width="724" height="562" alt="Screenshot 2026-02-02 221736" src="https://github.com/user-attachments/assets/d38fdf2f-56e7-4560-b368-420e34db5fef" />
+
 
 
 ---
