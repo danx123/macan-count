@@ -21,14 +21,14 @@ This app was developed by **Danx Exodus** as part of the *Macan Apps* ecosystem.
 ---
 
 ## 📸 Screenshots
-<img width="724" height="562" alt="Screenshot 2026-02-02 221736" src="https://github.com/user-attachments/assets/d38fdf2f-56e7-4560-b368-420e34db5fef" />
+<img width="987" height="668" alt="Screenshot 2026-02-21 021059" src="https://github.com/user-attachments/assets/1a3f3f77-a11c-4ac3-a3d3-51c4ed321f6b" />
+
 
 
 
 ---
 
-## Changelog
-- Update Framework
+
   
 ℹ️ Note
 The source code shared on GitHub is a base/blueprint.
