@@ -5,6 +5,11 @@ This app was developed by **Danx Exodus** as part of the *Macan Apps* ecosystem.
 
 ---
 
+<img width="1024" height="1536" alt="macan count pro v6 5 0" src="https://github.com/user-attachments/assets/0b483c24-8ecd-45d3-9433-ce2d30dccfa2" />
+
+
+---
+
 ## ✨ Key Features
 - **Modern UI**: With a clean and smooth design.
 - **Multi-Mode Calculator**:
