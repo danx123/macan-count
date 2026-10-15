@@ -1,5 +1,9 @@
 # 🐅 Macan Count
 
+![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Total Downloads](https://img.shields.io/github/downloads/danx123/macan-count/total?style=flat-square&color=E8FF00&label=downloads)
+
 **Macan Count** is a modern calculator app based on **Python + PySide6**, designed with a minimalist appearance, yet remains lightweight, modular, and flexible.
 This app was developed by **Danx Exodus** as part of the *Macan Apps* ecosystem.
 ---
